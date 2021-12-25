@@ -45,3 +45,31 @@ ul {
   font-family: 'Noto Sans';
 }
 
+.block-1 {
+background: url("../img/image.png.png") no-repeat 50%;
+max-width: 1680px;
+height: 771px;
+background-size: contain;
+}
+
+.desc {
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 50px;
+  text-align: left;
+  color: white;
+  padding-top: 200px;
+}
+
+.btn-1 {
+  vertical-align: middle;
+  color: #000000;
+  background-color: #f5e503;
+  margin-top: 25px;
+  padding: 10px;
+}
+
+.text-center {
+color: #5a5cbd;
+margin-bottom: 50px;
+}
