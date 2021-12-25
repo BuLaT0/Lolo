@@ -1,0 +1,47 @@
+.itd_circle {
+  width: 45px;
+  height: 45px;
+  border: 3px solid yellow;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background: url("../img/image.png") no-repeat;
+  background-color: #bae2ec;
+}
+
+.pre-footer {
+  height: 120vh;
+  background-attachment: scroll;
+  background-position: center bottom;
+  background-image: url("../img/image\(2\).webp");
+  background-repeat: no-repeat;
+}
+
+.center {
+  position: relative;
+  left: 405px;
+  top: 10px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.number {
+  color: #5a5cbd;
+  font-weight: 700;
+}
+
+.nav-link {
+  color: #5a5cbd;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: 'Noto Sans';
+}
+
